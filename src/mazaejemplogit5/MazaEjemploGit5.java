@@ -14,8 +14,9 @@ public class MazaEjemploGit5 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Adrian Maza Martin");   
-        System.out.println("version 2");
+        System.out.println("Adrian Maza Martin");
+        System.out.println("Ahora soy Cristian.");
+        System.out.println("Pasamos a la version 3");
     }
     
 }
